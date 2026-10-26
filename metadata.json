@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Saved Avatars & Outfits Explorer",
+  "description": "Inspect and browse any Roblox player's custom avatar creations, saved outfits, catalog accessories, and avatar renders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
